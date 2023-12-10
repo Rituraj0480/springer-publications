@@ -1,5 +1,5 @@
 # springer-publications-rituraj
-The repository contains full pdfs of my research papers published in springer. It also has the certificates for my presentations in the conferences.
+The repository contains full pdfs of my research papers published in Springer. It also has the certificates of my presentations in the conferences.
 
 ## Papers:
 HSCRD: Hybridized Semantic Approach for Knowledge Centric Requirement Discovery 
