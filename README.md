@@ -1,6 +1,6 @@
-# Springer Publications Repository
+# Springer Publications
 
-Welcome to the "springer-publications" repository! This collection features full PDFs of research papers authored by Rituraj Ojha & Gerard Deepak and published by Springer. Additionally, certificates for conference presentations are also included.
+This collection features full PDFs of research papers authored by Rituraj Ojha & Gerard Deepak and published by Springer. Additionally, certificates for conference presentations are also included.
 
 ## Papers:
 
