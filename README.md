@@ -1,4 +1,4 @@
-# springer-publications-rituraj
+# springer-publications
 The repository contains full pdfs of my research papers published in Springer. It also has the certificates of my presentations in the conferences.
 
 ## Papers:
